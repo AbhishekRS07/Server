@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Abhishek Raj Singh",
+      "email": "abhiraj812000@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Dibakar",
+      "email": "d@gmail.com",
+      "password": "9090",
+      "id": 2
+    }
+  ],
+  "tracker": [
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "20000",
+      "date": "2023-08-05",
+      "id": 1
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "10000",
+      "date": "2023-08-05",
+      "id": 2
+    },
+    {
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": "1000",
+      "date": "2023-08-12",
+      "id": 3
+    },
+    {
+      "type": "Income",
+      "category": "Refunds",
+      "amount": "1000",
+      "date": "2023-08-05",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "Other",
+      "amount": "900",
+      "date": "2023-08-05",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Lifestyle",
+      "amount": "5000",
+      "date": "2023-08-07",
+      "id": 6
+    }
+  ]
+}
